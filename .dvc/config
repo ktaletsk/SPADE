@@ -1,0 +1,4 @@
+['remote "myremote"']
+url = /media/ktaletsk/Data/DVC/SPADE/
+[core]
+remote = myremote
