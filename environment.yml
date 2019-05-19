@@ -1,0 +1,12 @@
+# run: conda env create --file environment.yml
+name: spade-env
+dependencies:
+- python>=3.6
+- pip
+- pip:
+  - torch>=1.0.0
+  - torchvision
+  - dominate>=2.3.1
+  - dill
+  - scikit-image
+
